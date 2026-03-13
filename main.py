@@ -1,18 +1,18 @@
 from mean_var_std import calculate
 
-# Test 1 - freeCodeCamp example
+# Test 1 
 print("Test 1:")
 print(calculate([0, 1, 2, 3, 4, 5, 6, 7, 8]))
 
 print()
 
-# Test 2 - different numbers
+# Test 2 
 print("Test 2:")
 print(calculate([2, 6, 2, 8, 4, 0, 1, 5, 7]))
 
 print()
 
-# Test 3 - another set
+# Test 3 
 print("Test 3:")
 print(calculate([9, 1, 5, 3, 3, 3, 2, 9, 0]))
 
